@@ -1,0 +1,500 @@
+2026-11-06 08:02:00 INFO User logged in successfully by user operator from 192.168.1.10
+2026-11-06 08:04:00 INFO File accessed successfully by user operator from 10.0.0.15
+2026-11-06 08:06:00 INFO User session started by user root from 192.168.1.25
+2026-11-06 08:08:00 INFO User session started by user operator from 203.0.113.20
+2026-11-06 08:10:00 INFO User logged in successfully by user sara from 172.16.0.8
+2026-11-06 08:12:00 INFO File accessed successfully by user admin from 192.168.1.10
+2026-11-06 08:14:00 INFO Firewall allowed connection by user root from 203.0.113.20
+2026-11-06 08:16:00 INFO File accessed successfully by user admin from 203.0.113.20
+2026-11-06 08:18:00 INFO Service started by user operator from 203.0.113.20
+2026-11-06 08:20:00 INFO Firewall allowed connection by user root from 172.16.0.8
+2026-11-06 08:22:00 INFO Connection established by user guest from 192.168.1.10
+2026-11-06 08:24:00 INFO DNS query completed by user operator from 172.16.0.8
+2026-11-06 08:26:00 ERROR Database connection failed on server WEB-03
+2026-11-06 08:28:00 INFO Service started by user admin from 192.168.1.10
+2026-11-06 08:30:00 INFO DNS query completed by user admin from 10.0.0.15
+2026-11-06 08:32:00 INFO User logged in successfully by user sara from 10.0.0.15
+2026-11-06 08:34:00 HTTP 200 Request completed successfully by user operator from 172.16.0.8
+2026-11-06 08:36:00 INFO User session started by user admin from 172.16.0.8
+2026-11-06 08:38:00 INFO Firewall allowed connection by user sara from 10.0.0.15
+2026-11-06 08:40:00 INFO Firewall allowed connection by user backup from 10.0.0.15
+2026-11-06 08:42:00 INFO User logged in successfully by user root from 192.168.1.10
+2026-11-06 08:44:00 INFO Scheduled backup completed by user operator from 192.168.1.25
+2026-11-06 08:46:00 INFO User session started by user admin from 192.168.1.25
+2026-11-06 08:48:00 INFO User logged out by user ahmed from 10.0.0.15
+2026-11-06 08:50:00 INFO Connection established by user operator from 10.0.0.15
+2026-11-06 08:52:00 ERROR Database connection failed on server WEB-03
+2026-11-06 08:54:00 INFO Firewall allowed connection by user operator from 192.168.1.10
+2026-11-06 08:56:00 HTTP 200 Request completed successfully by user operator from 192.168.1.25
+2026-11-06 08:58:00 INFO Connection established by user operator from 192.168.1.25
+2026-11-06 09:00:00 INFO Scheduled backup completed by user ahmed from 172.16.0.8
+2026-11-06 09:02:00 INFO File accessed successfully by user operator from 203.0.113.20
+2026-11-06 09:04:00 INFO User logged in successfully by user operator from 10.0.0.15
+2026-11-06 09:06:00 INFO DNS query completed by user root from 192.168.1.10
+2026-11-06 09:08:00 INFO User session started by user ahmed from 10.0.0.15
+2026-11-06 09:10:00 INFO DNS query completed by user root from 203.0.113.20
+2026-11-06 09:12:00 INFO Service started by user root from 172.16.0.8
+2026-11-06 09:14:00 INFO Connection established by user operator from 172.16.0.8
+2026-11-06 09:16:00 INFO File accessed successfully by user guest from 192.168.1.25
+2026-11-06 09:18:00 ERROR Service unavailable on server WEB-03
+2026-11-06 09:20:00 INFO Service started by user operator from 203.0.113.20
+2026-11-06 09:22:00 INFO DNS query completed by user sara from 172.16.0.8
+2026-11-06 09:24:00 HTTP 200 Request completed successfully by user root from 192.168.1.25
+2026-11-06 09:26:00 INFO User logged in successfully by user ahmed from 192.168.1.10
+2026-11-06 09:28:00 INFO Connection established by user backup from 192.168.1.10
+2026-11-06 09:30:00 INFO Service started by user operator from 192.168.1.25
+2026-11-06 09:32:00 INFO Service started by user sara from 192.168.1.10
+2026-11-06 09:34:00 INFO User logged out by user ahmed from 203.0.113.20
+2026-11-06 09:36:00 HTTP 200 Request completed successfully by user sara from 10.0.0.15
+2026-11-06 09:38:00 INFO User session started by user backup from 192.168.1.10
+2026-11-06 09:40:00 INFO Scheduled backup completed by user operator from 203.0.113.20
+2026-11-06 09:42:00 INFO User session started by user backup from 10.0.0.15
+2026-11-06 09:44:00 ERROR Database connection failed on server WEB-04
+2026-11-06 09:46:00 HTTP 200 Request completed successfully by user admin from 10.0.0.15
+2026-11-06 09:48:00 HTTP 200 Request completed successfully by user backup from 192.168.1.25
+2026-11-06 09:50:00 HTTP 200 Request completed successfully by user admin from 10.0.0.15
+2026-11-06 09:52:00 INFO Connection established by user sara from 192.168.1.25
+2026-11-06 09:54:00 HTTP 200 Request completed successfully by user guest from 192.168.1.25
+2026-11-06 09:56:00 INFO User logged in successfully by user backup from 203.0.113.20
+2026-11-06 09:58:00 INFO User logged out by user sara from 10.0.0.15
+2026-11-06 10:00:00 INFO DNS query completed by user admin from 192.168.1.10
+2026-11-06 10:02:00 INFO File accessed successfully by user backup from 10.0.0.15
+2026-11-06 10:04:00 INFO Firewall allowed connection by user admin from 192.168.1.25
+2026-11-06 10:06:00 INFO User logged out by user admin from 192.168.1.10
+2026-11-06 10:08:00 HTTP 200 Request completed successfully by user backup from 192.168.1.10
+2026-11-06 10:10:00 ERROR Database connection failed on server WEB-04
+2026-11-06 10:12:00 INFO Scheduled backup completed by user sara from 192.168.1.25
+2026-11-06 10:14:00 INFO Service started by user sara from 203.0.113.20
+2026-11-06 10:16:00 INFO File accessed successfully by user root from 203.0.113.20
+2026-11-06 10:18:00 INFO Service started by user operator from 10.0.0.15
+2026-11-06 10:20:00 INFO User logged out by user operator from 10.0.0.15
+2026-11-06 10:22:00 INFO User session started by user sara from 172.16.0.8
+2026-11-06 10:24:00 INFO User session started by user root from 192.168.1.25
+2026-11-06 10:26:00 INFO Firewall allowed connection by user guest from 192.168.1.10
+2026-11-06 10:28:00 INFO Firewall allowed connection by user sara from 192.168.1.25
+2026-11-06 10:30:00 INFO User session started by user root from 192.168.1.10
+2026-11-06 10:32:00 INFO File accessed successfully by user operator from 192.168.1.10
+2026-11-06 10:34:00 INFO DNS query completed by user admin from 192.168.1.10
+2026-11-06 10:36:00 ERROR Database connection failed on server WEB-03
+2026-11-06 10:38:00 INFO File accessed successfully by user operator from 172.16.0.8
+2026-11-06 10:40:00 INFO Firewall allowed connection by user sara from 192.168.1.25
+2026-11-06 10:42:00 INFO File accessed successfully by user sara from 172.16.0.8
+2026-11-06 10:44:00 INFO Service started by user backup from 172.16.0.8
+2026-11-06 10:46:00 INFO User session started by user root from 192.168.1.10
+2026-11-06 10:48:00 INFO DNS query completed by user operator from 172.16.0.8
+2026-11-06 10:50:00 INFO User logged out by user ahmed from 172.16.0.8
+2026-11-06 10:52:00 INFO User session started by user backup from 192.168.1.10
+2026-11-06 10:54:00 INFO DNS query completed by user admin from 172.16.0.8
+2026-11-06 10:56:00 INFO File accessed successfully by user backup from 192.168.1.10
+2026-11-06 10:58:00 HTTP 200 Request completed successfully by user root from 192.168.1.25
+2026-11-06 11:00:00 INFO Service started by user ahmed from 192.168.1.25
+2026-11-06 11:02:00 FAILED Authentication rejected for user root from 10.0.0.15
+2026-11-06 11:04:00 INFO User logged out by user root from 192.168.1.10
+2026-11-06 11:06:00 INFO User session started by user backup from 203.0.113.20
+2026-11-06 11:08:00 INFO User logged in successfully by user admin from 203.0.113.20
+2026-11-06 11:10:00 INFO Connection established by user admin from 192.168.1.25
+2026-11-06 11:12:00 INFO User logged out by user ahmed from 172.16.0.8
+2026-11-06 11:14:00 INFO User logged in successfully by user root from 172.16.0.8
+2026-11-06 11:16:00 INFO User logged in successfully by user root from 172.16.0.8
+2026-11-06 11:18:00 INFO User logged out by user ahmed from 10.0.0.15
+2026-11-06 11:20:00 HTTP 200 Request completed successfully by user guest from 172.16.0.8
+2026-11-06 11:22:00 INFO Connection established by user operator from 172.16.0.8
+2026-11-06 11:24:00 INFO File accessed successfully by user root from 10.0.0.15
+2026-11-06 11:26:00 HTTP 200 Request completed successfully by user admin from 203.0.113.20
+2026-11-06 11:28:00 FAILED Login attempt for user admin from 10.0.0.15
+2026-11-06 11:30:00 INFO User logged out by user admin from 203.0.113.20
+2026-11-06 11:32:00 INFO Connection established by user sara from 203.0.113.20
+2026-11-06 11:34:00 INFO User session started by user admin from 203.0.113.20
+2026-11-06 11:36:00 INFO User session started by user backup from 192.168.1.25
+2026-11-06 11:38:00 INFO File accessed successfully by user sara from 192.168.1.10
+2026-11-06 11:40:00 INFO Firewall allowed connection by user ahmed from 192.168.1.10
+2026-11-06 11:42:00 INFO Firewall allowed connection by user root from 203.0.113.20
+2026-11-06 11:44:00 INFO User session started by user admin from 203.0.113.20
+2026-11-06 11:46:00 INFO Firewall allowed connection by user ahmed from 203.0.113.20
+2026-11-06 11:48:00 INFO Scheduled backup completed by user sara from 10.0.0.15
+2026-11-06 11:50:00 INFO File accessed successfully by user root from 10.0.0.15
+2026-11-06 11:52:00 INFO Connection established by user guest from 172.16.0.8
+2026-11-06 11:54:00 FAILED Authentication rejected for user operator from 10.0.0.15
+2026-11-06 11:56:00 INFO User logged in successfully by user guest from 192.168.1.10
+2026-11-06 11:58:00 INFO Firewall allowed connection by user ahmed from 203.0.113.20
+2026-11-06 12:00:00 HTTP 200 Request completed successfully by user admin from 192.168.1.10
+2026-11-06 12:02:00 INFO Scheduled backup completed by user root from 203.0.113.20
+2026-11-06 12:04:00 INFO User session started by user root from 10.0.0.15
+2026-11-06 12:06:00 INFO Scheduled backup completed by user root from 10.0.0.15
+2026-11-06 12:08:00 HTTP 200 Request completed successfully by user root from 172.16.0.8
+2026-11-06 12:10:00 INFO Firewall allowed connection by user operator from 10.0.0.15
+2026-11-06 12:12:00 INFO User logged in successfully by user backup from 203.0.113.20
+2026-11-06 12:14:00 INFO Scheduled backup completed by user operator from 203.0.113.20
+2026-11-06 12:16:00 INFO Connection established by user operator from 192.168.1.10
+2026-11-06 12:18:00 INFO User session started by user guest from 192.168.1.10
+2026-11-06 12:20:00 ERROR Database connection failed on server WEB-03
+2026-11-06 12:22:00 INFO File accessed successfully by user guest from 203.0.113.20
+2026-11-06 12:24:00 INFO File accessed successfully by user operator from 10.0.0.15
+2026-11-06 12:26:00 HTTP 200 Request completed successfully by user operator from 10.0.0.15
+2026-11-06 12:28:00 INFO User logged in successfully by user ahmed from 10.0.0.15
+2026-11-06 12:30:00 INFO Scheduled backup completed by user admin from 172.16.0.8
+2026-11-06 12:32:00 INFO DNS query completed by user admin from 192.168.1.10
+2026-11-06 12:34:00 INFO Scheduled backup completed by user backup from 192.168.1.25
+2026-11-06 12:36:00 HTTP 200 Request completed successfully by user root from 172.16.0.8
+2026-11-06 12:38:00 HTTP 200 Request completed successfully by user operator from 172.16.0.8
+2026-11-06 12:40:00 INFO User session started by user admin from 192.168.1.10
+2026-11-06 12:42:00 HTTP 200 Request completed successfully by user operator from 192.168.1.25
+2026-11-06 12:44:00 INFO Firewall allowed connection by user admin from 10.0.0.15
+2026-11-06 12:46:00 FAILED Authentication rejected for user sara from 192.168.1.25
+2026-11-06 12:48:00 INFO Scheduled backup completed by user root from 192.168.1.10
+2026-11-06 12:50:00 INFO DNS query completed by user guest from 192.168.1.10
+2026-11-06 12:52:00 INFO User session started by user root from 192.168.1.25
+2026-11-06 12:54:00 INFO Service started by user guest from 203.0.113.20
+2026-11-06 12:56:00 INFO File accessed successfully by user sara from 192.168.1.25
+2026-11-06 12:58:00 INFO Connection established by user backup from 192.168.1.25
+2026-11-06 13:00:00 INFO Connection established by user ahmed from 192.168.1.10
+2026-11-06 13:02:00 INFO Service started by user operator from 10.0.0.15
+2026-11-06 13:04:00 INFO Scheduled backup completed by user backup from 192.168.1.25
+2026-11-06 13:06:00 INFO Service started by user root from 192.168.1.10
+2026-11-06 13:08:00 INFO User logged out by user backup from 192.168.1.10
+2026-11-06 13:10:00 INFO User logged out by user root from 192.168.1.25
+2026-11-06 13:12:00 ERROR Database connection failed on server WEB-02
+2026-11-06 13:14:00 INFO Service started by user admin from 192.168.1.25
+2026-11-06 13:16:00 INFO User session started by user guest from 10.0.0.15
+2026-11-06 13:18:00 INFO DNS query completed by user backup from 10.0.0.15
+2026-11-06 13:20:00 INFO Service started by user operator from 203.0.113.20
+2026-11-06 13:22:00 INFO DNS query completed by user operator from 203.0.113.20
+2026-11-06 13:24:00 INFO Scheduled backup completed by user admin from 192.168.1.10
+2026-11-06 13:26:00 INFO Scheduled backup completed by user root from 203.0.113.20
+2026-11-06 13:28:00 INFO Firewall allowed connection by user admin from 192.168.1.10
+2026-11-06 13:30:00 INFO DNS query completed by user ahmed from 10.0.0.15
+2026-11-06 13:32:00 HTTP 200 Request completed successfully by user ahmed from 203.0.113.20
+2026-11-06 13:34:00 INFO Firewall allowed connection by user admin from 172.16.0.8
+2026-11-06 13:36:00 INFO User logged in successfully by user root from 10.0.0.15
+2026-11-06 13:38:00 FAILED Login attempt for user operator from 172.16.0.8
+2026-11-06 13:40:00 INFO File accessed successfully by user sara from 203.0.113.20
+2026-11-06 13:42:00 INFO User session started by user guest from 172.16.0.8
+2026-11-06 13:44:00 INFO Firewall allowed connection by user operator from 10.0.0.15
+2026-11-06 13:46:00 INFO Scheduled backup completed by user guest from 192.168.1.10
+2026-11-06 13:48:00 INFO Service started by user sara from 10.0.0.15
+2026-11-06 13:50:00 INFO Scheduled backup completed by user guest from 172.16.0.8
+2026-11-06 13:52:00 INFO File accessed successfully by user sara from 192.168.1.25
+2026-11-06 13:54:00 INFO Connection established by user ahmed from 172.16.0.8
+2026-11-06 13:56:00 INFO Scheduled backup completed by user sara from 203.0.113.20
+2026-11-06 13:58:00 INFO User logged in successfully by user ahmed from 203.0.113.20
+2026-11-06 14:00:00 INFO File accessed successfully by user guest from 10.0.0.15
+2026-11-06 14:02:00 INFO Firewall allowed connection by user ahmed from 203.0.113.20
+2026-11-06 14:04:00 FAILED Authentication rejected for user operator from 10.0.0.15
+2026-11-06 14:06:00 INFO File accessed successfully by user ahmed from 172.16.0.8
+2026-11-06 14:08:00 INFO Connection established by user sara from 172.16.0.8
+2026-11-06 14:10:00 INFO Scheduled backup completed by user operator from 192.168.1.10
+2026-11-06 14:12:00 INFO DNS query completed by user sara from 203.0.113.20
+2026-11-06 14:14:00 INFO Scheduled backup completed by user admin from 192.168.1.25
+2026-11-06 14:16:00 INFO Connection established by user root from 192.168.1.25
+2026-11-06 14:18:00 INFO File accessed successfully by user admin from 192.168.1.10
+2026-11-06 14:20:00 INFO User session started by user ahmed from 203.0.113.20
+2026-11-06 14:22:00 INFO Firewall allowed connection by user ahmed from 172.16.0.8
+2026-11-06 14:24:00 INFO User logged out by user root from 172.16.0.8
+2026-11-06 14:26:00 INFO Connection established by user ahmed from 192.168.1.25
+2026-11-06 14:28:00 INFO User session started by user operator from 192.168.1.10
+2026-11-06 14:30:00 ERROR Database connection failed on server WEB-02
+2026-11-06 14:32:00 INFO User logged out by user backup from 203.0.113.20
+2026-11-06 14:34:00 INFO File accessed successfully by user admin from 203.0.113.20
+2026-11-06 14:36:00 INFO User logged out by user backup from 192.168.1.10
+2026-11-06 14:38:00 HTTP 200 Request completed successfully by user root from 172.16.0.8
+2026-11-06 14:40:00 INFO DNS query completed by user sara from 203.0.113.20
+2026-11-06 14:42:00 INFO Firewall allowed connection by user backup from 172.16.0.8
+2026-11-06 14:44:00 INFO Service started by user backup from 203.0.113.20
+2026-11-06 14:46:00 INFO User logged out by user backup from 203.0.113.20
+2026-11-06 14:48:00 INFO User logged out by user root from 172.16.0.8
+2026-11-06 14:50:00 INFO Scheduled backup completed by user guest from 192.168.1.25
+2026-11-06 14:52:00 INFO User logged out by user backup from 203.0.113.20
+2026-11-06 14:54:00 INFO Scheduled backup completed by user operator from 192.168.1.25
+2026-11-06 14:56:00 HTTP 404 Resource not found for /pages/resource-208.html from 192.168.1.10
+2026-11-06 14:58:00 INFO Scheduled backup completed by user guest from 192.168.1.25
+2026-11-06 15:00:00 HTTP 200 Request completed successfully by user guest from 10.0.0.15
+2026-11-06 15:02:00 INFO Connection established by user admin from 192.168.1.25
+2026-11-06 15:04:00 INFO Connection established by user root from 172.16.0.8
+2026-11-06 15:06:00 INFO User session started by user operator from 192.168.1.25
+2026-11-06 15:08:00 INFO DNS query completed by user ahmed from 172.16.0.8
+2026-11-06 15:10:00 INFO Service started by user sara from 172.16.0.8
+2026-11-06 15:12:00 INFO Service started by user admin from 192.168.1.25
+2026-11-06 15:14:00 INFO User logged in successfully by user ahmed from 203.0.113.20
+2026-11-06 15:16:00 INFO Service started by user backup from 203.0.113.20
+2026-11-06 15:18:00 INFO DNS query completed by user ahmed from 192.168.1.10
+2026-11-06 15:20:00 INFO Service started by user guest from 172.16.0.8
+2026-11-06 15:22:00 ERROR Service unavailable on server WEB-02
+2026-11-06 15:24:00 INFO Scheduled backup completed by user ahmed from 192.168.1.25
+2026-11-06 15:26:00 INFO User logged in successfully by user ahmed from 172.16.0.8
+2026-11-06 15:28:00 INFO Service started by user ahmed from 10.0.0.15
+2026-11-06 15:30:00 INFO User logged out by user operator from 192.168.1.25
+2026-11-06 15:32:00 HTTP 200 Request completed successfully by user root from 203.0.113.20
+2026-11-06 15:34:00 INFO Firewall allowed connection by user admin from 172.16.0.8
+2026-11-06 15:36:00 INFO User session started by user sara from 192.168.1.10
+2026-11-06 15:38:00 INFO Connection established by user operator from 172.16.0.8
+2026-11-06 15:40:00 INFO Connection established by user backup from 172.16.0.8
+2026-11-06 15:42:00 INFO Service started by user admin from 10.0.0.15
+2026-11-06 15:44:00 INFO User logged out by user guest from 192.168.1.25
+2026-11-06 15:46:00 INFO Service started by user guest from 10.0.0.15
+2026-11-06 15:48:00 HTTP 404 Page not found for /pages/resource-234.html from 172.16.0.8
+2026-11-06 15:50:00 INFO User logged out by user backup from 192.168.1.10
+2026-11-06 15:52:00 INFO User logged in successfully by user admin from 203.0.113.20
+2026-11-06 15:54:00 INFO User session started by user guest from 192.168.1.25
+2026-11-06 15:56:00 INFO User logged in successfully by user backup from 192.168.1.10
+2026-11-06 15:58:00 INFO User logged in successfully by user root from 192.168.1.25
+2026-11-06 16:00:00 INFO File accessed successfully by user sara from 192.168.1.25
+2026-11-06 16:02:00 INFO User session started by user root from 172.16.0.8
+2026-11-06 16:04:00 INFO User logged out by user sara from 192.168.1.25
+2026-11-06 16:06:00 INFO DNS query completed by user operator from 10.0.0.15
+2026-11-06 16:08:00 INFO Firewall allowed connection by user root from 203.0.113.20
+2026-11-06 16:10:00 INFO Connection established by user operator from 192.168.1.10
+2026-11-06 16:12:00 INFO Firewall allowed connection by user guest from 192.168.1.10
+2026-11-06 16:14:00 ERROR Service unavailable on server WEB-04
+2026-11-06 16:16:00 INFO User session started by user ahmed from 192.168.1.25
+2026-11-06 16:18:00 INFO User session started by user sara from 192.168.1.25
+2026-11-06 16:20:00 INFO Firewall allowed connection by user operator from 10.0.0.15
+2026-11-06 16:22:00 INFO Firewall allowed connection by user backup from 192.168.1.10
+2026-11-06 16:24:00 INFO DNS query completed by user backup from 192.168.1.10
+2026-11-06 16:26:00 INFO DNS query completed by user sara from 172.16.0.8
+2026-11-06 16:28:00 INFO DNS query completed by user admin from 203.0.113.20
+2026-11-06 16:30:00 INFO User logged out by user admin from 172.16.0.8
+2026-11-06 16:32:00 INFO DNS query completed by user admin from 172.16.0.8
+2026-11-06 16:34:00 INFO Connection established by user operator from 172.16.0.8
+2026-11-06 16:36:00 HTTP 200 Request completed successfully by user ahmed from 192.168.1.25
+2026-11-06 16:38:00 INFO Firewall allowed connection by user operator from 10.0.0.15
+2026-11-06 16:40:00 FAILED Authentication rejected for user backup from 203.0.113.20
+2026-11-06 16:42:00 INFO Firewall allowed connection by user ahmed from 172.16.0.8
+2026-11-06 16:44:00 INFO File accessed successfully by user guest from 10.0.0.15
+2026-11-06 16:46:00 INFO Scheduled backup completed by user backup from 192.168.1.10
+2026-11-06 16:48:00 INFO User logged out by user ahmed from 192.168.1.25
+2026-11-06 16:50:00 INFO Service started by user sara from 203.0.113.20
+2026-11-06 16:52:00 INFO User logged out by user guest from 192.168.1.10
+2026-11-06 16:54:00 INFO Connection established by user backup from 10.0.0.15
+2026-11-06 16:56:00 INFO DNS query completed by user ahmed from 192.168.1.25
+2026-11-06 16:58:00 INFO DNS query completed by user backup from 10.0.0.15
+2026-11-06 17:00:00 INFO Scheduled backup completed by user guest from 203.0.113.20
+2026-11-06 17:02:00 HTTP 200 Request completed successfully by user sara from 192.168.1.10
+2026-11-06 17:04:00 INFO File accessed successfully by user root from 192.168.1.10
+2026-11-06 17:06:00 FAILED Authentication rejected for user operator from 172.16.0.8
+2026-11-06 17:08:00 INFO User logged out by user sara from 192.168.1.25
+2026-11-06 17:10:00 INFO User logged out by user operator from 172.16.0.8
+2026-11-06 17:12:00 INFO User session started by user backup from 192.168.1.10
+2026-11-06 17:14:00 INFO Service started by user guest from 192.168.1.25
+2026-11-06 17:16:00 INFO Scheduled backup completed by user operator from 192.168.1.25
+2026-11-06 17:18:00 INFO DNS query completed by user operator from 203.0.113.20
+2026-11-06 17:20:00 HTTP 200 Request completed successfully by user ahmed from 203.0.113.20
+2026-11-06 17:22:00 HTTP 200 Request completed successfully by user guest from 172.16.0.8
+2026-11-06 17:24:00 INFO User logged out by user guest from 10.0.0.15
+2026-11-06 17:26:00 INFO Scheduled backup completed by user guest from 10.0.0.15
+2026-11-06 17:28:00 INFO File accessed successfully by user root from 192.168.1.10
+2026-11-06 17:30:00 HTTP 200 Request completed successfully by user guest from 192.168.1.10
+2026-11-06 17:32:00 ERROR Database connection failed on server WEB-02
+2026-11-06 17:34:00 INFO Scheduled backup completed by user operator from 172.16.0.8
+2026-11-06 17:36:00 HTTP 200 Request completed successfully by user operator from 203.0.113.20
+2026-11-06 17:38:00 INFO User session started by user sara from 10.0.0.15
+2026-11-06 17:40:00 INFO Scheduled backup completed by user backup from 192.168.1.25
+2026-11-06 17:42:00 INFO Connection established by user root from 10.0.0.15
+2026-11-06 17:44:00 HTTP 200 Request completed successfully by user guest from 192.168.1.10
+2026-11-06 17:46:00 INFO User logged in successfully by user root from 10.0.0.15
+2026-11-06 17:48:00 INFO Scheduled backup completed by user admin from 203.0.113.20
+2026-11-06 17:50:00 INFO User logged out by user operator from 192.168.1.25
+2026-11-06 17:52:00 INFO Firewall allowed connection by user admin from 192.168.1.10
+2026-11-06 17:54:00 INFO User logged out by user guest from 172.16.0.8
+2026-11-06 17:56:00 INFO Connection established by user ahmed from 10.0.0.15
+2026-11-06 17:58:00 FAILED Authentication rejected for user admin from 10.0.0.15
+2026-11-06 18:00:00 INFO Service started by user admin from 192.168.1.10
+2026-11-06 18:02:00 INFO Firewall allowed connection by user ahmed from 192.168.1.10
+2026-11-06 18:04:00 INFO Connection established by user operator from 192.168.1.10
+2026-11-06 18:06:00 INFO Scheduled backup completed by user root from 203.0.113.20
+2026-11-06 18:08:00 INFO User session started by user admin from 192.168.1.25
+2026-11-06 18:10:00 INFO Firewall allowed connection by user sara from 172.16.0.8
+2026-11-06 18:12:00 INFO File accessed successfully by user sara from 203.0.113.20
+2026-11-06 18:14:00 INFO Service started by user backup from 203.0.113.20
+2026-11-06 18:16:00 INFO Scheduled backup completed by user ahmed from 172.16.0.8
+2026-11-06 18:18:00 INFO Service started by user backup from 203.0.113.20
+2026-11-06 18:20:00 INFO Firewall allowed connection by user guest from 203.0.113.20
+2026-11-06 18:22:00 INFO User session started by user admin from 203.0.113.20
+2026-11-06 18:24:00 HTTP 404 Resource not found for /pages/resource-312.html from 192.168.1.25
+2026-11-06 18:26:00 INFO User session started by user root from 10.0.0.15
+2026-11-06 18:28:00 INFO Connection established by user root from 192.168.1.25
+2026-11-06 18:30:00 INFO Connection established by user sara from 192.168.1.10
+2026-11-06 18:32:00 INFO User logged out by user admin from 172.16.0.8
+2026-11-06 18:34:00 INFO User logged out by user operator from 203.0.113.20
+2026-11-06 18:36:00 INFO File accessed successfully by user guest from 192.168.1.10
+2026-11-06 18:38:00 INFO User logged out by user guest from 10.0.0.15
+2026-11-06 18:40:00 INFO Scheduled backup completed by user admin from 192.168.1.25
+2026-11-06 18:42:00 INFO File accessed successfully by user backup from 203.0.113.20
+2026-11-06 18:44:00 HTTP 200 Request completed successfully by user ahmed from 192.168.1.10
+2026-11-06 18:46:00 INFO Scheduled backup completed by user root from 192.168.1.25
+2026-11-06 18:48:00 INFO User session started by user backup from 192.168.1.25
+2026-11-06 18:50:00 HTTP 404 Page not found for /pages/resource-325.html from 192.168.1.25
+2026-11-06 18:52:00 INFO Scheduled backup completed by user sara from 203.0.113.20
+2026-11-06 18:54:00 INFO User logged out by user ahmed from 192.168.1.10
+2026-11-06 18:56:00 INFO Service started by user operator from 10.0.0.15
+2026-11-06 18:58:00 HTTP 200 Request completed successfully by user guest from 203.0.113.20
+2026-11-06 19:00:00 INFO User session started by user ahmed from 172.16.0.8
+2026-11-06 19:02:00 INFO Service started by user sara from 192.168.1.10
+2026-11-06 19:04:00 INFO Firewall allowed connection by user operator from 10.0.0.15
+2026-11-06 19:06:00 INFO User session started by user guest from 192.168.1.10
+2026-11-06 19:08:00 INFO Firewall allowed connection by user root from 203.0.113.20
+2026-11-06 19:10:00 INFO Firewall allowed connection by user admin from 10.0.0.15
+2026-11-06 19:12:00 INFO User logged out by user admin from 192.168.1.25
+2026-11-06 19:14:00 INFO Scheduled backup completed by user sara from 172.16.0.8
+2026-11-06 19:16:00 FAILED Authentication rejected for user root from 203.0.113.20
+2026-11-06 19:18:00 INFO User session started by user operator from 172.16.0.8
+2026-11-06 19:20:00 INFO Service started by user ahmed from 10.0.0.15
+2026-11-06 19:22:00 INFO User session started by user guest from 10.0.0.15
+2026-11-06 19:24:00 INFO DNS query completed by user backup from 192.168.1.25
+2026-11-06 19:26:00 INFO Scheduled backup completed by user ahmed from 172.16.0.8
+2026-11-06 19:28:00 HTTP 200 Request completed successfully by user operator from 172.16.0.8
+2026-11-06 19:30:00 INFO User session started by user admin from 172.16.0.8
+2026-11-06 19:32:00 INFO DNS query completed by user guest from 10.0.0.15
+2026-11-06 19:34:00 HTTP 200 Request completed successfully by user admin from 172.16.0.8
+2026-11-06 19:36:00 HTTP 200 Request completed successfully by user backup from 192.168.1.10
+2026-11-06 19:38:00 INFO User logged in successfully by user ahmed from 172.16.0.8
+2026-11-06 19:40:00 INFO DNS query completed by user root from 203.0.113.20
+2026-11-06 19:42:00 HTTP 404 Resource not found for /pages/resource-351.html from 172.16.0.8
+2026-11-06 19:44:00 INFO File accessed successfully by user ahmed from 192.168.1.10
+2026-11-06 19:46:00 INFO Connection established by user guest from 203.0.113.20
+2026-11-06 19:48:00 INFO User logged out by user guest from 172.16.0.8
+2026-11-06 19:50:00 INFO Firewall allowed connection by user admin from 192.168.1.10
+2026-11-06 19:52:00 INFO Connection established by user backup from 192.168.1.25
+2026-11-06 19:54:00 INFO User logged in successfully by user guest from 203.0.113.20
+2026-11-06 19:56:00 INFO User session started by user sara from 172.16.0.8
+2026-11-06 19:58:00 INFO User logged out by user root from 192.168.1.10
+2026-11-06 20:00:00 INFO User logged out by user admin from 192.168.1.25
+2026-11-06 20:02:00 HTTP 200 Request completed successfully by user operator from 10.0.0.15
+2026-11-06 20:04:00 INFO Service started by user operator from 10.0.0.15
+2026-11-06 20:06:00 INFO User logged out by user backup from 172.16.0.8
+2026-11-06 20:08:00 ERROR Service unavailable on server WEB-02
+2026-11-06 20:10:00 INFO Firewall allowed connection by user ahmed from 192.168.1.25
+2026-11-06 20:12:00 INFO User session started by user sara from 192.168.1.25
+2026-11-06 20:14:00 INFO DNS query completed by user guest from 172.16.0.8
+2026-11-06 20:16:00 INFO Scheduled backup completed by user backup from 203.0.113.20
+2026-11-06 20:18:00 INFO Scheduled backup completed by user backup from 192.168.1.10
+2026-11-06 20:20:00 INFO Firewall allowed connection by user operator from 10.0.0.15
+2026-11-06 20:22:00 INFO Connection established by user sara from 172.16.0.8
+2026-11-06 20:24:00 INFO User logged out by user ahmed from 203.0.113.20
+2026-11-06 20:26:00 HTTP 200 Request completed successfully by user guest from 10.0.0.15
+2026-11-06 20:28:00 INFO Service started by user backup from 203.0.113.20
+2026-11-06 20:30:00 INFO File accessed successfully by user ahmed from 10.0.0.15
+2026-11-06 20:32:00 INFO Firewall allowed connection by user operator from 192.168.1.25
+2026-11-06 20:34:00 FAILED Authentication rejected for user ahmed from 192.168.1.25
+2026-11-06 20:36:00 INFO User logged out by user admin from 10.0.0.15
+2026-11-06 20:38:00 INFO Service started by user operator from 172.16.0.8
+2026-11-06 20:40:00 INFO User logged out by user operator from 192.168.1.25
+2026-11-06 20:42:00 HTTP 200 Request completed successfully by user admin from 192.168.1.25
+2026-11-06 20:44:00 INFO User session started by user sara from 10.0.0.15
+2026-11-06 20:46:00 INFO User session started by user backup from 172.16.0.8
+2026-11-06 20:48:00 INFO User logged in successfully by user sara from 172.16.0.8
+2026-11-06 20:50:00 INFO Service started by user operator from 192.168.1.25
+2026-11-06 20:52:00 INFO User session started by user backup from 192.168.1.25
+2026-11-06 20:54:00 INFO DNS query completed by user ahmed from 10.0.0.15
+2026-11-06 20:56:00 INFO User session started by user sara from 172.16.0.8
+2026-11-06 20:58:00 HTTP 200 Request completed successfully by user backup from 10.0.0.15
+2026-11-06 21:00:00 HTTP 404 Resource not found for /pages/resource-390.html from 10.0.0.15
+2026-11-06 21:02:00 HTTP 200 Request completed successfully by user operator from 172.16.0.8
+2026-11-06 21:04:00 INFO User session started by user admin from 203.0.113.20
+2026-11-06 21:06:00 INFO File accessed successfully by user root from 10.0.0.15
+2026-11-06 21:08:00 INFO Service started by user operator from 192.168.1.10
+2026-11-06 21:10:00 INFO User logged out by user admin from 192.168.1.10
+2026-11-06 21:12:00 INFO User logged in successfully by user root from 10.0.0.15
+2026-11-06 21:14:00 INFO User logged in successfully by user admin from 10.0.0.15
+2026-11-06 21:16:00 INFO DNS query completed by user guest from 10.0.0.15
+2026-11-06 21:18:00 INFO File accessed successfully by user ahmed from 192.168.1.25
+2026-11-06 21:20:00 INFO Firewall allowed connection by user sara from 172.16.0.8
+2026-11-06 21:22:00 INFO Connection established by user operator from 192.168.1.25
+2026-11-06 21:24:00 INFO Firewall allowed connection by user root from 192.168.1.10
+2026-11-06 21:26:00 ERROR Service unavailable on server WEB-02
+2026-11-06 21:28:00 INFO Connection established by user ahmed from 203.0.113.20
+2026-11-06 21:30:00 INFO Scheduled backup completed by user root from 172.16.0.8
+2026-11-06 21:32:00 INFO User logged in successfully by user ahmed from 10.0.0.15
+2026-11-06 21:34:00 INFO Scheduled backup completed by user backup from 172.16.0.8
+2026-11-06 21:36:00 INFO Connection established by user operator from 203.0.113.20
+2026-11-06 21:38:00 INFO DNS query completed by user admin from 172.16.0.8
+2026-11-06 21:40:00 INFO Service started by user sara from 10.0.0.15
+2026-11-06 21:42:00 INFO User logged out by user operator from 10.0.0.15
+2026-11-06 21:44:00 INFO File accessed successfully by user backup from 10.0.0.15
+2026-11-06 21:46:00 INFO User session started by user ahmed from 172.16.0.8
+2026-11-06 21:48:00 INFO Firewall allowed connection by user root from 172.16.0.8
+2026-11-06 21:50:00 INFO Scheduled backup completed by user guest from 203.0.113.20
+2026-11-06 21:52:00 FAILED Login attempt for user operator from 10.0.0.15
+2026-11-06 21:54:00 INFO Scheduled backup completed by user backup from 172.16.0.8
+2026-11-06 21:56:00 INFO User logged in successfully by user admin from 203.0.113.20
+2026-11-06 21:58:00 INFO Scheduled backup completed by user sara from 172.16.0.8
+2026-11-06 22:00:00 INFO Firewall allowed connection by user backup from 192.168.1.25
+2026-11-06 22:02:00 INFO File accessed successfully by user backup from 10.0.0.15
+2026-11-06 22:04:00 INFO Firewall allowed connection by user operator from 192.168.1.25
+2026-11-06 22:06:00 INFO User session started by user guest from 192.168.1.25
+2026-11-06 22:08:00 INFO Scheduled backup completed by user operator from 192.168.1.10
+2026-11-06 22:10:00 INFO User logged in successfully by user backup from 172.16.0.8
+2026-11-06 22:12:00 INFO Connection established by user sara from 10.0.0.15
+2026-11-06 22:14:00 INFO DNS query completed by user admin from 10.0.0.15
+2026-11-06 22:16:00 INFO Connection established by user operator from 172.16.0.8
+2026-11-06 22:18:00 ERROR Service unavailable on server WEB-03
+2026-11-06 22:20:00 INFO Scheduled backup completed by user sara from 203.0.113.20
+2026-11-06 22:22:00 INFO Scheduled backup completed by user backup from 192.168.1.25
+2026-11-06 22:24:00 INFO Scheduled backup completed by user backup from 172.16.0.8
+2026-11-06 22:26:00 INFO User session started by user operator from 10.0.0.15
+2026-11-06 22:28:00 INFO Connection established by user ahmed from 192.168.1.10
+2026-11-06 22:30:00 INFO Service started by user backup from 192.168.1.25
+2026-11-06 22:32:00 INFO DNS query completed by user backup from 203.0.113.20
+2026-11-06 22:34:00 INFO User logged in successfully by user admin from 172.16.0.8
+2026-11-06 22:36:00 INFO User session started by user guest from 203.0.113.20
+2026-11-06 22:38:00 INFO Scheduled backup completed by user ahmed from 10.0.0.15
+2026-11-06 22:40:00 INFO DNS query completed by user sara from 172.16.0.8
+2026-11-06 22:42:00 INFO User logged out by user admin from 192.168.1.25
+2026-11-06 22:44:00 ERROR Service unavailable on server WEB-03
+2026-11-06 22:46:00 INFO User session started by user sara from 192.168.1.25
+2026-11-06 22:48:00 INFO Scheduled backup completed by user operator from 172.16.0.8
+2026-11-06 22:50:00 INFO User session started by user operator from 172.16.0.8
+2026-11-06 22:52:00 INFO User logged in successfully by user root from 192.168.1.10
+2026-11-06 22:54:00 INFO User session started by user guest from 172.16.0.8
+2026-11-06 22:56:00 HTTP 200 Request completed successfully by user admin from 192.168.1.25
+2026-11-06 22:58:00 INFO User logged out by user root from 172.16.0.8
+2026-11-06 23:00:00 INFO Service started by user guest from 203.0.113.20
+2026-11-06 23:02:00 INFO Service started by user sara from 192.168.1.25
+2026-11-06 23:04:00 INFO User logged out by user operator from 192.168.1.10
+2026-11-06 23:06:00 INFO Scheduled backup completed by user sara from 172.16.0.8
+2026-11-06 23:08:00 INFO File accessed successfully by user admin from 10.0.0.15
+2026-11-06 23:10:00 ERROR Database connection failed on server WEB-03
+2026-11-06 23:12:00 HTTP 200 Request completed successfully by user admin from 10.0.0.15
+2026-11-06 23:14:00 INFO User logged in successfully by user operator from 10.0.0.15
+2026-11-06 23:16:00 INFO File accessed successfully by user ahmed from 10.0.0.15
+2026-11-06 23:18:00 INFO User session started by user admin from 172.16.0.8
+2026-11-06 23:20:00 INFO Firewall allowed connection by user operator from 192.168.1.25
+2026-11-06 23:22:00 INFO DNS query completed by user admin from 192.168.1.10
+2026-11-06 23:24:00 INFO Firewall allowed connection by user root from 192.168.1.25
+2026-11-06 23:26:00 HTTP 200 Request completed successfully by user root from 192.168.1.10
+2026-11-06 23:28:00 INFO File accessed successfully by user root from 203.0.113.20
+2026-11-06 23:30:00 INFO DNS query completed by user backup from 192.168.1.25
+2026-11-06 23:32:00 INFO Firewall allowed connection by user backup from 192.168.1.25
+2026-11-06 23:34:00 INFO Connection established by user admin from 10.0.0.15
+2026-11-06 23:36:00 HTTP 404 Page not found for /pages/resource-468.html from 203.0.113.20
+2026-11-06 23:38:00 INFO User session started by user backup from 192.168.1.25
+2026-11-06 23:40:00 INFO Connection established by user operator from 192.168.1.10
+2026-11-06 23:42:00 INFO File accessed successfully by user admin from 10.0.0.15
+2026-11-06 23:44:00 INFO User logged in successfully by user sara from 10.0.0.15
+2026-11-06 23:46:00 INFO User logged in successfully by user root from 10.0.0.15
+2026-11-06 23:48:00 HTTP 200 Request completed successfully by user root from 172.16.0.8
+2026-11-06 23:50:00 INFO User logged out by user admin from 192.168.1.10
+2026-11-06 23:52:00 HTTP 200 Request completed successfully by user ahmed from 10.0.0.15
+2026-11-06 23:54:00 INFO User logged out by user sara from 192.168.1.10
+2026-11-06 23:56:00 INFO Firewall allowed connection by user sara from 192.168.1.25
+2026-11-06 23:58:00 INFO Scheduled backup completed by user admin from 203.0.113.20
+2026-11-07 00:00:00 INFO User logged in successfully by user ahmed from 192.168.1.10
+2026-11-07 00:02:00 FAILED Authentication rejected for user ahmed from 172.16.0.8
+2026-11-07 00:04:00 INFO User logged out by user operator from 192.168.1.10
+2026-11-07 00:06:00 INFO User session started by user operator from 172.16.0.8
+2026-11-07 00:08:00 INFO Firewall allowed connection by user admin from 10.0.0.15
+2026-11-07 00:10:00 INFO Connection established by user root from 192.168.1.10
+2026-11-07 00:12:00 INFO Firewall allowed connection by user guest from 203.0.113.20
+2026-11-07 00:14:00 INFO Service started by user sara from 10.0.0.15
+2026-11-07 00:16:00 INFO Scheduled backup completed by user sara from 203.0.113.20
+2026-11-07 00:18:00 INFO Firewall allowed connection by user ahmed from 203.0.113.20
+2026-11-07 00:20:00 INFO User session started by user ahmed from 192.168.1.10
+2026-11-07 00:22:00 INFO File accessed successfully by user backup from 203.0.113.20
+2026-11-07 00:24:00 INFO File accessed successfully by user ahmed from 172.16.0.8
+2026-11-07 00:26:00 INFO User logged out by user ahmed from 10.0.0.15
+2026-11-07 00:28:00 HTTP 404 Resource not found for /pages/resource-494.html from 172.16.0.8
+2026-11-07 00:30:00 INFO Service started by user admin from 10.0.0.15
+2026-11-07 00:32:00 INFO DNS query completed by user guest from 10.0.0.15
+2026-11-07 00:34:00 INFO User session started by user root from 172.16.0.8
+2026-11-07 00:36:00 INFO User session started by user admin from 192.168.1.10
+2026-11-07 00:38:00 INFO DNS query completed by user ahmed from 192.168.1.10
+2026-11-07 00:40:00 HTTP 200 Request completed successfully by user backup from 192.168.1.25
